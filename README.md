@@ -1,27 +1,65 @@
-# Hero
+RE
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
+<h2 align="center"> Marvel Characters </h2>
 
-## Development server
+<h2>Front-end</h1>
+<ul>
+  <li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" alt="angular" height="22"> <strong>   Angular </strong> </li>
+</ul>
+<ul>
+  <li> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" height="22"> <strong>   Bootstrap </strong> </li>
+</ul>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+#### Dependências
+- Angular CLI
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+------------
 
-## Build
+#### Tecnologias
+- Bootstrap 4
+- Typescript
+- Javascript
+- 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+------------
 
-## Running unit tests
+#### Comandos NodeJS
+###### Baixar dependência
+```shell
+    npm install
+```
+###### Executar Aplicação
+```shell
+    npm dev || npm start
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+------------
 
-## Running end-to-end tests
+#### Comandos Angular
+###### Baixar dependência
+```shell
+    npm install
+```
+###### Executar Aplicação
+```shell
+    ng s
+```
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+------------
 
-## Further help
+#### Links
+######   Marvel API
+```shell
+​ https://developer.marvel.com/
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+---
+
+
+---
+
+<h4 align="center"> <em></></em> by <a href="https://github.com/italolopes9" target="_blank"> Italo Lopes</a> </h4>
+

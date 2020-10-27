@@ -1,0 +1,49 @@
+.logo {
+    width: 98px;
+    height: 40px;
+    margin-left: 70px;
+}
+
+.custom-ul {
+    margin-right: 70px;
+}
+
+.navbar {
+    background-color: #FFCD00;
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    // position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    font-family: Marvel;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+@media(max-width: 425px) {
+    .logo {
+        width: 98px;
+        height: 40px;
+        margin-left: 10px;
+    }
+
+}
+
+@media(max-width: 768px) {
+    .logo {
+        width: 98px;
+        height: 40px;
+        margin-left: 10px;
+    }
+
+}
+
+@media(max-width: 1024px) {
+    .logo {
+        width: 98px;
+        height: 40px;
+        margin-left: 10px;
+    }
+}

@@ -23,7 +23,7 @@
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
             "aot": true,
-            "assets": [
+            "assets": [ 
               "src/favicon.ico",
               "src/assets"
             ],
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "hero"
+    }
+  },
+  "defaultProject": "hero",
+  "cli": {
+    "analytics": false
+  }
 }
