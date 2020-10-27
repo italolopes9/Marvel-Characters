@@ -80,8 +80,15 @@ section .sci li a {
     }
 
     section .sci {
-        top: 120vh;
-        right: 90vh;
+        top: 150vh;
+        left: 45vh;
+    }
+
+    section h2{
+        text-align: center;
+    }
+    section p{
+        text-align: center;
     }
 }
 
@@ -93,8 +100,8 @@ section .sci li a {
     }
 
     section .sci {
-        top: 110vh;
-        right: 80vh;
+        top: 140vh;
+        left: 37vh;
     }
 }
 
@@ -103,11 +110,27 @@ section .sci li a {
         top: 150vh;
         left: 40vh;
     }
+     
+}
+
+@media (max-width: 425px) {
+    section h2{
+        font-size: 50px !important;
+        text-align: center;
+    }
+    section p{
+        text-align: center;
+    }
+
+    section .sci {
+        top: 100vh;
+        left: 37vh;
+    }
 }
 
 @media (max-width: 375px) {
     section .sci {
-        top: 150vh;
+        top: 105vh;
         left: 33vh;
     }
 }
