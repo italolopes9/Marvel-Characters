@@ -19,7 +19,7 @@
 - Bootstrap 4
 - Typescript
 - Javascript
-- 
+- NodeJs
 
 ------------
 
