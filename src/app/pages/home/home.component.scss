@@ -80,8 +80,7 @@ section .sci li a {
     }
 
     section .sci {
-        top: 150vh;
-        left: 45vh;
+        top: 110vh;
     }
 
     section h2{
@@ -100,15 +99,14 @@ section .sci li a {
     }
 
     section .sci {
-        top: 140vh;
-        left: 37vh;
+        top: 100vh;
     }
 }
 
 @media (max-width: 450px) {
     section .sci {
         top: 150vh;
-        left: 40vh;
+        left: 17vh;
     }
      
 }
@@ -123,14 +121,16 @@ section .sci li a {
     }
 
     section .sci {
-        top: 100vh;
-        left: 37vh;
+        top: 60vh;
+    }
+
+    .imgBx img {
+        margin-bottom: 25vh;
     }
 }
 
 @media (max-width: 375px) {
     section .sci {
-        top: 105vh;
-        left: 33vh;
+        top: 60vh;
     }
 }

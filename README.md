@@ -16,13 +16,13 @@
 ------------
 
 #### Tecnologias
-- Bootstrap 4
 - HTML
 - CSS
-- SCSS
-- Typescript
 - Javascript
+- SCSS
+- Bootstrap 4
 - NodeJs
+- Typescript
 - Compodoc
 
 ------------
