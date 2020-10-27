@@ -17,6 +17,9 @@
 
 #### Tecnologias
 - Bootstrap 4
+- HTML
+- CSS
+- SCSS
 - Typescript
 - Javascript
 - NodeJs
