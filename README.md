@@ -20,6 +20,7 @@
 - Typescript
 - Javascript
 - NodeJs
+- Compodoc
 
 ------------
 
@@ -47,10 +48,31 @@
 
 ------------
 
+#### Comandos Documentação de Código (Compodoc)
+###### Baixar dependência
+```shell
+    npm install
+```
+###### Executar Aplicação
+```shell
+   compodoc -s
+```
+
+###### Informações
+```shell
+   Acesse http://localhost:8080 para visualizar a documentação.
+```
+
+------------
+
 #### Links
 ######   Marvel API
 ```shell
 ​ https://developer.marvel.com/
+```
+######   Compodoc
+```shell
+​ https://compodoc.app/
 ```
 
 
