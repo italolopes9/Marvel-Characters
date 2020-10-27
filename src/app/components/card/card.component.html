@@ -1,9 +1,10 @@
-<div class="container body">
-
+<div class="container">
     <div class="row row-cols-1 row-cols-md-3">
-      <div *ngFor="let character of allCharacters | async" class="col mb-4">
+      <div *ngFor="let character of allCharacters | async" class="col mb-4">        
         <div class="card h-100">
-          <img src="{{character.thumbnail.path}}.{{character.thumbnail.extension}}" class="card-img-top" alt="{{character.name}}">
+          <a href="{{character.urls[0].url}}" target="_blank">
+            <img src="{{character.thumbnail.path}}.{{character.thumbnail.extension}}" class="card-img-top" alt="{{character.name}}">
+          </a>
           <div class="card-body">
             <h5 class="card-title">{{character.name}}</h5>
             <p class="card-text">{{character.description}}</p>
@@ -13,3 +14,5 @@
       </div>
     </div>
 </div>
+
+
