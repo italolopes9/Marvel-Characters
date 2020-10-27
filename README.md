@@ -1,5 +1,3 @@
-RE
-
 <h2 align="center"> Marvel Characters </h2>
 
 <h2>Front-end</h1>
@@ -44,7 +42,7 @@ RE
 ```
 ###### Executar Aplicação
 ```shell
-    ng s
+   ng serve --open
 ```
 
 ------------
