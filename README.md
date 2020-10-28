@@ -1,11 +1,12 @@
+<div align="center"><a href="https://marvel-characters-h5mn4wwda.vercel.app"><img width="200" height="150" src="./src/assets/images/logo.png"></a>
 <h2 align="center"> Marvel Characters </h2>
 
-<h2>Front-end</h1>
+#### Front-end
 <ul>
-  <li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" alt="angular" height="22"> <strong>   Angular </strong> </li>
+  <li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" alt="angular" height="20"> Angular</li>
 </ul>
 <ul>
-  <li> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" height="22"> <strong>   Bootstrap </strong> </li>
+  <li> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" height="20"> Bootstrap </li>
 </ul>
 
 ---
