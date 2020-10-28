@@ -1,5 +1,4 @@
-<div align="center"><a href="https://marvel-characters-h5mn4wwda.vercel.app"><img width="200" height="120" src="./src/assets/images/logo.png"></a></div>
-<h2 align="center"> Marvel Characters </h2>
+<div align="center"><a href="https://marvel-characters-h5mn4wwda.vercel.app" target="_blank"><img width="200" height="120" src="./src/assets/images/logo.png"></a></div>
 
 #### Front-end
 <ul>
