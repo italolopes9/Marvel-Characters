@@ -77,6 +77,10 @@
 ```shell
 ​ https://compodoc.app/
 ```
+######   Link do projeto online
+```shell
+​ https://marvel-characters-h5mn4wwda.vercel.app
+```
 
 
 ---
